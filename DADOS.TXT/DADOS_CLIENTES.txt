@@ -1,0 +1,414 @@
+
+====================
+
+====================
+Nome: Nara teste 
+Data de Nascimento: 06/11/2005
+CPF: 128.121.639-92
+Gênero: Feminino
+Telefone: (45) 99986-8412
+E-mail: nara@gmail
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: CASA
+Número: 1457
+
+====================
+Nome: teste1
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Masculino 
+Telefone: (45) 11111-1111
+E-mail: 11
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+
+====================
+Nome: teste2
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Masculino 
+Telefone: (45) 11111-1111
+E-mail: 11
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+
+====================
+Nome: teste3
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Masculino 
+Telefone: (45) 11111-1111
+E-mail: 11
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+
+====================
+Nome: teste4
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Masculino 
+Telefone: (45) 11111-1111
+E-mail: 11
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+
+====================
+Nome: teste5
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Masculino 
+Telefone: (45) 11111-1111
+E-mail: 11
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+
+====================
+Nome: teste6
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Masculino 
+Telefone: (45) 11111-1111
+E-mail: 11
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+
+====================
+Nome: teste7
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Masculino 
+Telefone: (45) 11111-1111
+E-mail: 11
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+
+====================
+Nome: teste8
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Masculino 
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: 11
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Nome: teste9
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: 11
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Masculino 
+Telefone: (45) 11111-1111
+E-mail: 11
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+
+====================
+
+====================
+
+====================
+Nome: teste10
+Data de Nascimento: 26/03/2025
+CPF: 121.345.646-54
+Gênero: Feminino
+Telefone: (45) 99999-9999
+E-mail: nara@gamil
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: CASA
+Número: 10
+
+====================
+Nome: teste11
+Data de Nascimento: 11/11/1112
+CPF: 111.111.111-12
+Gênero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: @
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Data de Nascimento: 11/11/1112
+CPF: 111.111.111-11
+Gênero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: @
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: @
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: @
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: 11
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: 11
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Feminino
+Telefone: (45) 11111-1111
+E-mail: 11
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+
+====================
+Nome: teste12
+Data de Nascimento: 11/11/2025
+CPF: 111.111.111-11
+Gênero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: @
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Data de Nascimento: 11/11/1111
+CPF: 111.111.111-11
+Gênero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: APARTAMENTO
+Número: 1
+E-mail: @
+Telefone: (45) 11111-1111
+------------------------------------------------------
+Data de Nascimento: 26/03/2025
+CPF: 121.212.121-21
+Gênero: Feminino
+Telefone: (45) 55555-5555
+E-mail: nara@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: CASA
+Número: 12
+
+====================
+Nome: teste13
+Data de Nascimento: 26/03/2025
+CPF: 123.456.789-99
+Gênero: Masculino 
+Telefone: (45) 99999-9999
+E-mail: nara@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: CASA
+Número: 14
+
+====================
+Nome: teste14
+Data de Nascimento: 26/03/2025
+CPF: 123.456.789-99
+Gênero: Feminino
+Telefone: (45) 99999-9999
+E-mail: nara@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: CASA
+Número: 14
+
+====================
+
+====================
+
+====================
+
+====================
+Nome: gerson
+Data de Nascimento: 10/09/1976
+CPF: 333.331.111-11
+Gênero: .
+CEP: 75101-005
+Estado: GO
+Cidade: Anápolis
+Bairro: Residencial Buritis
+Logradouro: Rua Paula Ribeiro Alves
+Complemento: CASA
+Número: hhhhhh
+E-mail: balena@
+Telefone: (45) 99484-6375
+------------------------------------------------------
+
+====================
+Nome: Layssa
+Data de Nascimento: 23/12/2005
+CPF: 000.000.000-00
+Gênero: Feminino
+Telefone: (00) 00000-0000
+E-mail: lkjjsjejss
+CEP: 85814-330
+Estado: pr
+Cidade: cascave
+Bairro: jfjf
+Logradouro: dhf
+Complemento: CASA
+Número: 5
+
+====================
+Nome: nara
+Data de Nascimento: 55/55/5555
+CPF: 131.303.030-20
+Gênero: .
+Telefone: (45) 99999-9999
+E-mail: nnnnn
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: CASA
+Número: 1457
+
+====================
+Nome: nsrs
+Data de Nascimento: 06/11/2005
+CPF: 128.121.639-92
+Gênero: Feminino
+Telefone: (45) 99986-8412
+E-mail: nara@balena
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: CASA
+Número: 1457

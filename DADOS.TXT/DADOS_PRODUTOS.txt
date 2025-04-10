@@ -1,0 +1,131 @@
+
+
+====================
+
+====================
+
+====================
+
+====================
+Código: 01
+Nome: teste1
+Preço: R$ 10,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 02
+Nome: teste2
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 03
+Nome: teste3
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 04
+Nome: teste4
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 05
+Nome: teste5
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 06
+Nome: teste6
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 07
+Nome: teste7
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 08
+Nome: teste8
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 09
+Nome: teste9
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 10
+Nome: teste10
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 11
+Nome: teste11
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 12
+Nome: teste12
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 13
+Nome: teste13
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+====================
+Código: 14
+Nome: teste14
+Preço: R$ 20,00
+Quantidade em Estoque: 5
+Categoria: frios
+Fornecedor: teste
+Data de Validade: 28/03/2025
+------------------------------------------------------
+
+====================
+Código: 02
+Nome: banana
+Preço: R$ 1.50
+Quantidade em Estoque: 15
+Categoria: fruta
+Fornecedor: cristal bananas
+Data de Validade: 30/04/2000
+====================

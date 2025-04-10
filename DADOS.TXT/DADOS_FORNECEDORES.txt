@@ -1,0 +1,163 @@
+
+====================
+
+====================
+====================
+Nome: teste1
+CNPJ: 11.111.111/1111-11
+Telefone: (45) 99999-9999
+E-mail: teste1@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 1
+------------------------------------------------------
+====================
+Nome: teste2
+CNPJ: 22.222.222/2222-22
+Telefone: (45) 99999-9999
+E-mail: teste2@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 2
+------------------------------------------------------
+Nome: teste3
+CNPJ: 33.333.333/3333-33
+Telefone: (45) 99999-9999
+E-mail: teste3@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 3
+------------------------------------------------------
+====================
+Nome: teste4
+CNPJ: 44.444.444/4444-44
+Telefone: (45) 99999-9999
+E-mail: teste4@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 4
+------------------------------------------------------
+====================
+Nome: teste5
+CNPJ: 55.555.555/5555-55
+Telefone: (45) 99999-9999
+E-mail: teste5@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 5
+------------------------------------------------------
+====================
+Nome: teste6
+CNPJ: 66.666.666/6666-66
+Telefone: (45) 99999-9999
+E-mail: teste6@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 6
+------------------------------------------------------
+====================
+Nome: teste7
+CNPJ: 77.777.777/7777-77
+Telefone: (45) 99999-9999
+E-mail: teste7@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 7
+------------------------------------------------------
+====================
+Nome: teste8
+CNPJ: 88.888.888/8888-88
+Telefone: (88) 99999-9999
+E-mail: teste8@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 8
+------------------------------------------------------
+====================
+Nome: teste9
+CNPJ: 99.999.999/9999-99
+Telefone: (99) 99999-9999
+E-mail: teste9@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 9
+------------------------------------------------------
+====================
+Nome: teste10
+CNPJ: 00.000.000/0000-10
+Telefone: (10) 99999-9999
+E-mail: teste10@
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 10
+------------------------------------------------------
+====================
+Nome: teste11
+CNPJ: 00.000.000/0000-11
+Telefone: (11) 11111-1111
+E-mail: teste11@gmail
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 11
+------------------------------------------------------
+====================
+====================
+====================
+====================
+====================
+Nome: beltrame&Balena Ltda
+CNPJ: 03.381.263/0001-86
+Telefone: (45) 33233-6773
+E-mail: balena10@yahoo.com.br
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Número: 1457
+------------------------------------------------------
+====================
+Nome: sjeeu
+CNPJ: 00.000.000/0000-00
+Telefone: (00) 00000-0000
+E-mail: jdjdsdhsau
+CEP: 85814-160
+Estado: kjjj
+Cidade: kkkk
+Bairro: kkk
+Logradouro: kkkk
+Número: 5
+------------------------------------------------------

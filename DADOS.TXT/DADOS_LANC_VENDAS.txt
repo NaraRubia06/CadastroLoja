@@ -1,0 +1,198 @@
+
+====================
+Produto: leite
+Quantidade: 10
+Data da Venda: 15/03/2025
+Forma de Pagamento: Dinheiro em Espécie
+Valor Total: R$ 100,00
+====================
+Produto: banana
+Quantidade: 5
+Data da Venda: 20/03/2025
+Forma de Pagamento: Dinheiro em Espécie
+Valor Total: R$ 10,00
+====================
+Produto: teste
+Quantidade: 5
+Data da Venda: 26/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 100,00
+------------------------------------------------------
+Produto: banana
+Quantidade: 5
+Data da Venda: 20/03/2025
+Forma de Pagamento: Dinheiro em Espécie
+Valor Total: R$ 10,00
+====================
+
+====================
+Clientes: Teste1
+Produto: banana
+Quantidade: 5
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste2
+Produto: banana
+Quantidade: 5
+Data da Venda: 28/03/2025
+Forma de Pagamento: Dinheiro em Espécie
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste3
+Produto: banana
+Quantidade: 5
+Data da Venda: 28/03/2025
+Forma de Pagamento: Cartão de Crédito 
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste4
+Produto: banana
+Quantidade: 5
+Data da Venda: 28/03/2025
+Forma de Pagamento: Cartão de Débito
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste5
+Produto: banana
+Quantidade: 5
+Data da Venda: 28/03/2025
+Forma de Pagamento: Boleto Bancário
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste6
+Produto: banana
+Quantidade: 5
+Data da Venda: 28/03/2025
+Forma de Pagamento: Transferência Bancária 
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Produto: banana
+Quantidade: 5
+Data da Venda: 28/03/2025
+Forma de Pagamento: Transferência Bancária 
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Produto: banana
+Quantidade: 5
+Data da Venda: 28/03/2025
+Forma de Pagamento: Cheque
+Valor Total: R$ 10,00
+------------------------------------------------------
+
+====================
+
+====================
+Clientes: Teste8
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Dinheiro em Espécie
+Valor Total: R$ 10,00
+------------------------------------------------------
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste9
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste10
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste11
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste12
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste13
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Clientes: Teste14
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Produto: teste
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+====================
+Produto: teste1
+Quantidade: 8
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 10,00
+------------------------------------------------------
+
+====================
+Produto: banana
+Quantidade: 5
+Data da Venda: 28/03/2025
+Forma de Pagamento: Pix
+Valor Total: R$ 20,00
+------------------------------------------------------
+====================
+Clientes: Antonio
+Produto: gel
+Quantidade: 15
+Data da Venda: 40/01/1900
+Forma de Pagamento: Pix
+Valor Total: R$ 12
+------------------------------------------------------
